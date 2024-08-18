@@ -1,4 +1,4 @@
-# 📦 PHP PDO CRUD Application with OOP
+# 📦 INVENTARY MANAGEMENT SYSTEM
 
 ![PHP Version](https://img.shields.io/badge/PHP-%3E%3D%207.4-777bb3.svg?style=flat-square&logo=php&logoColor=white)
 ![PDO](https://img.shields.io/badge/PDO-Enabled-green.svg?style=flat-square)
